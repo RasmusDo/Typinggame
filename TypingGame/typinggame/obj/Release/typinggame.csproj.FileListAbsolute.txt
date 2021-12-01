@@ -1,0 +1,10 @@
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\bin\Release\typinggame.exe.config
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\bin\Release\typinggame.exe
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\bin\Release\typinggame.pdb
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\obj\Release\typinggame.csprojAssemblyReference.cache
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\obj\Release\typinggame.Form1.resources
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\obj\Release\typinggame.Properties.Resources.resources
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\obj\Release\typinggame.csproj.GenerateResource.cache
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\obj\Release\typinggame.csproj.CoreCompileInputs.cache
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\obj\Release\typinggame.exe
+C:\Users\vincent.wall\source\repos\typinggame\typinggame\obj\Release\typinggame.pdb
